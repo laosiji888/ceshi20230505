@@ -1,0 +1,29 @@
+/* 全局样式表 */
+
+html,
+body,
+#app {
+    width: 1920px;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* font-face {
+    font-family: 'myFont';
+    src: url('/assets/font/PingFangSC-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+html,
+body {
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
